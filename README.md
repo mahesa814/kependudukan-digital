@@ -1,11 +1,8 @@
-# SIMKBS
-Sistem Informasi Manajemen Kependudukan Dan Bantuan Sosial menggunakan PHP dan MySQL serta template menggunakan AdminLTE
+## Kependudukan Digital
 
-
-## Beranda
-![](preview1.png)
-
-## Dashboard
-![](preview2.png)
-Kependudukan dan Bantuan Sosial
-Pemerintah Desa Bayun Sari
+### Step Instalation
+  1. install composer
+```
+composer install
+```
+2. version php 5.* | 7
